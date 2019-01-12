@@ -1,4 +1,4 @@
-#include "Nextion.h"
+#include "NextionBasic.h"
 #include "NexTouch.h"
 
 SerialBuffer<4096> serBuf(Serial1);
